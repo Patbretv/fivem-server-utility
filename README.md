@@ -46,7 +46,7 @@ server.getserverdata('resources').then(resources) {
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## Issues
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/yourusername/fivem-server-info/issues).
+If you encounter any issues or have suggestions for improvement, please [open an issue]([https://github.com/yourusername/fivem-server-info/issues](https://github.com/Patbretv/fivem-server-utility/issues)).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
